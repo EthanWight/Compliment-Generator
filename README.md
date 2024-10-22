@@ -10,6 +10,7 @@ The Compliment Generator is a JavaFX application that generates personalized com
 - Randomly generates compliments based on the input.
 - Responsive design with dynamic text wrapping.
 - Customizable CSS for enhanced visual appeal.
+- This Java program is designed to be versatile, providing both a command-line interface (CLI) for terminal users and a graphical user interface (GUI) using JavaFX for those who prefer a more visual interaction.
 
 ## Technologies Used
 
